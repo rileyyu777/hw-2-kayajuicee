@@ -1,0 +1,2 @@
+Used ChatGPT for: packaging (ligotools), fixing SciPy windows (tukey/blackman), path updates to data/ files, conda environment pinning, Binder setup (JupyterLab + pre-open notebook), and README badge.
+Prompts & key outputs summarized in commit history.
