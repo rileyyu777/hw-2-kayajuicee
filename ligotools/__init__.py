@@ -1,5 +1,6 @@
-cat > ligotools/__init__.py << 'EOF'
+
 import importlib
+
 __all__ = ["readligo"]
 
 def __getattr__(name):
