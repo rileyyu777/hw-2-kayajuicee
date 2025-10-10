@@ -1,0 +1,3 @@
+
+set -e
+python -m ipykernel install --user --name ligo --display-name "Python (ligo)"
