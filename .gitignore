@@ -1,0 +1,14 @@
+.DS_Store
+*.swp
+*.swo
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+env/
+venv/
+.venv/
+.conda/
+.jupyter/
